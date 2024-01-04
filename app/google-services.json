@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669616231436",
+    "project_id": "notesapptutorial-e6b63",
+    "storage_bucket": "notesapptutorial-e6b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669616231436:android:e2c5ad6700057d6fb18a29",
+        "android_client_info": {
+          "package_name": "com.example.cland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNarH0dz4mM6H_3kYMvt4RqvFVOc3asLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
